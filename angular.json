@@ -99,10 +99,7 @@
           "options": {
             "tsConfig": "tsconfig.spec.json",
             "assets": ["src/favicon.ico", "src/assets"],
-            "styles": [
-              "src/theme/variables.scss",
-              "src/global.scss"
-            ],
+            "styles": [],
             "scripts": []
           },
           "configurations": {
